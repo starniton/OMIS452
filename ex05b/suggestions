@@ -1,0 +1,8 @@
+1) The diagrams visual representation could be fixed more so that each line curves less and is easier to understand
+2) Each table could use more attributes to better define their entity
+  ex. Customer table should seperate customer name into first and last name as well as break up address so that each entry 
+        will not contain too much information that cannot be easily changed
+      Movies and Games should include information about pricing and stock quantitiess
+      Transactions need to have customer information, shipping information, order costs and any sort of discount rates
+      Employees should contain similar changes as the customer table
+3) The primary keys for Location can be the kiosk number, customer can be phone number       
