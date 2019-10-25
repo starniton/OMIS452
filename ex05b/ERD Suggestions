@@ -1,3 +1,5 @@
+Feedback for Fastflix:
+
 1) The diagrams visual representation could be fixed more so that each line curves less and is easier to understand
 2) Each table could use more attributes to better define their entity
   ex. Customer table should seperate customer name into first and last name as well as break up address so that each entry 
@@ -6,3 +8,9 @@
       Transactions need to have customer information, shipping information, order costs and any sort of discount rates
       Employees should contain similar changes as the customer table
 3) The primary keys for Location can be the kiosk number, customer can be phone number       
+
+Feedback for Barsema Atheletics:
+
+Identify the foreign keys used in related tables. While it is clear which are the foreign keys, labeling them with FK with 
+clarify them in the tables. Also I’m not sure if it is necessary to have a table for invoice and invoice_product. 
+What is the purpose of separating them into two tables? Be sure to add data types for the attributes for each relation.
